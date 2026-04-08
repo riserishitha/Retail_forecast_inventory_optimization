@@ -124,3 +124,7 @@ streamlit run dashboard/app.py
 - **Modular Codebase:** Clean scripts instead of messy notebooks.
 - **Actionable AI:** The ML translates directly to Reorder Points (ROP) that a store manager can natively understand and execute.
 - **Dynamic Scenario Planning:** The Streamlit dashboard allows non-technical business users to see the impact of supply chain delays immediately.
+
+# Deployed link :
+
+[DEPLOYED LINK](https://riserishitha-retail-forecast-inventory-opti-dashboardapp-uxmksp.streamlit.app/)

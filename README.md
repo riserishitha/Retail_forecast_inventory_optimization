@@ -96,3 +96,7 @@ streamlit run dashboard/app.py
 
 - **Business Value over Tech:** While the backend is powered by complex distributed computing (PySpark) and ML (XGBoost), the frontend delivers simple, actionable insights. 
 - **Scalability:** Built on enterprise-ready architecture to handle millions of daily SKU-store combinations.
+
+## 🔗 Deployed Application
+
+[**Access the Live Streamlit Dashboard Here**](https://riserishitha-retail-forecast-inventory-opti-dashboardapp-uxmksp.streamlit.app/)

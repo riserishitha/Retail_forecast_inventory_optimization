@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 AI-Powered Retail Inventory Optimizer (Product Management Portfolio)</h1>
+  <h1>🚀 AI-Powered Retail Inventory Optimizer</h1>
   <p>A B2B SaaS Product solving retail out-of-stock and overstocking issues using AI demand forecasting.</p>
   
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -73,28 +73,7 @@ Explore the PM & Business View, and the Store Operations View.
 streamlit run dashboard/app.py
 ```
 
----
 
-## 🗺️ Product Roadmap (Next 6-12 Months)
-
-**Q1 (MVP & Pilot):**
-- Launch XGBoost prediction for top 50 high-velocity SKUs.
-- Pilot dashboard with 3 store locations.
-- **A/B Testing:** Compare OOS rates of AI-recommended reorders vs. baseline manual ordering.
-
-**Q2 (Scale & Integration):**
-- Direct API integration with the retailer's core ERP system (e.g., SAP, Oracle).
-- Automated PO (Purchase Order) creation based on Reorder Points.
-
-**Q3 (Advanced Analytics):**
-- Incorporate external data (weather, local events, macroeconomic indicators) into the forecasting model.
-- Multi-echelon inventory optimization (optimizing warehouse vs. store levels simultaneously).
-
----
-
-## 🏆 Why this Product Matters
-
-- **Business Value over Tech:** While the backend is powered by complex distributed computing (PySpark) and ML (XGBoost), the frontend delivers simple, actionable insights. 
 - **Scalability:** Built on enterprise-ready architecture to handle millions of daily SKU-store combinations.
 
 ## 🔗 Deployed Application

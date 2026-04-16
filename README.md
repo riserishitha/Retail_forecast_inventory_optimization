@@ -74,7 +74,7 @@ streamlit run dashboard/app.py
 ```
 ## Visualisation:
 
-![Visualization 1](2026-04-16(6).png)
+![Visualization 1](2026-04-16%20(6).png)
 
 
 ## 🔗 Deployed Application

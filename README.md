@@ -72,9 +72,10 @@ Explore the PM & Business View, and the Store Operations View.
 ```bash
 streamlit run dashboard/app.py
 ```
+## Visualisation:
 
+![Visualization 1](2026-04-16(6).png)
 
-- **Scalability:** Built on enterprise-ready architecture to handle millions of daily SKU-store combinations.
 
 ## 🔗 Deployed Application
 
